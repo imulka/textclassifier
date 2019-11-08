@@ -1,0 +1,1 @@
+python title_classifier.py -mode predict -load_data_from to_predict.xlsx -title_column project_title -load_model_from trained_model.pkl -save_predictions_to my_predictions.csv
